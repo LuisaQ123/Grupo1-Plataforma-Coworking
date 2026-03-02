@@ -15,4 +15,4 @@ para liberar la sala reservada
    • El sistema debe actualizar la disponibilidad.
    
    • Debe mostrarse mensaje de cancelación exitosa.
-# Grupo1-Plataforma-Coworking
+
